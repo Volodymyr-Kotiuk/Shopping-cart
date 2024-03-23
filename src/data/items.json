@@ -1,0 +1,122 @@
+[
+  {
+      "id": 1,
+      "name": "Coleman Mackenzie",
+      "price": 649.83,
+      "imgUrl": "/images/tent1.png"
+  },
+  {
+      "id": 2,
+      "name": "Eurotrail YELLOWSTONE",
+      "price": 1260.11,
+      "imgUrl": "/images/tent2.png"
+  },
+  {
+      "id": 3,
+      "name": "Star Walk Glamp",
+      "price": 1041.17,
+      "imgUrl": "/images/tent3.png"
+  },
+  {
+      "id": 4,
+      "name": "Coleman Vail 4",
+      "price": 953.63,
+      "imgUrl": "/images/tent4.png"
+  },
+  {
+      "id": 5,
+      "name": "Thule Approach Annex",
+      "price": 906,
+      "imgUrl": "/images/tent5.png"
+  },
+  {
+    "id": 6,
+    "name": " Fox International",
+    "price": 875.36,
+    "imgUrl": "/images/tent6.png"
+},
+{
+    "id": 7,
+    "name": "Naturehike Hexagon",
+    "price": 921,
+    "imgUrl": "/images/tent7.png"
+},
+{
+    "id": 8,
+    "name": "Prologic Inspire Bivvy",
+    "price": 1002.85,
+    "imgUrl": "/images/tent8.png"
+},
+{
+    "id": 9,
+    "name": "High Peak Bozen 5",
+    "price": 720,
+    "imgUrl": "/images/tent9.png"
+},
+{
+    "id": 10,
+    "name": "Big Agnes Copper",
+    "price": 699.99,
+    "imgUrl": "/images/tent10.png"
+},
+{
+    "id": 11,
+    "name": "Hubba NX V7",
+    "price": 931,
+    "imgUrl": "/images/tent11.png"
+},
+{
+    "id": 12,
+    "name": "Wechsel Tempest 4",
+    "price": 853.21,
+    "imgUrl": "/images/tent12.png"
+},
+{
+    "id": 13,
+    "name": "Big Agnes gray",
+    "price": 741,
+    "imgUrl": "/images/tent13.png"
+},
+{
+    "id": 14,
+    "name": "Big Agnes Wyoming",
+    "price": 568.32,
+    "imgUrl": "/images/tent14.png"
+},
+{
+    "id": 15,
+    "name": "Hannah Barrack 4",
+    "price": 1225.41,
+    "imgUrl": "/images/tent15.png"
+},
+{
+    "id": 16,
+    "name": "Wechsel Precursor UL",
+    "price": 869.55,
+    "imgUrl": "/images/tent16.png"
+},
+{
+    "id": 17,
+    "name": "GENTLETENT ROOF",
+    "price": 795,
+    "imgUrl": "/images/tent17.png"
+},
+{
+    "id": 18,
+    "name": "Wechsel Halos 3",
+    "price": 921,
+    "imgUrl": "/images/tent18.png"
+},
+{
+    "id": 19,
+    "name": "Wechsel Halos 3 ZG",
+    "price": 1144.75,
+    "imgUrl": "/images/tent19.png"
+},
+{
+    "id": 20,
+    "name": "Avid Carp HQ",
+    "price": 826,
+    "imgUrl": "/images/tent20.png"
+}
+]

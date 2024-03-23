@@ -1,0 +1,50 @@
+.cont {
+    position: relative;
+    background-image: url("/public/images/backgroung.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    flex-direction: column; 
+    text-align: center;
+    justify-content: center;
+  }
+  
+  .logo {
+    width: 400px; 
+    height: auto;
+  }
+  
+  .subtitle {
+    font-size: 500%; 
+    color: black;
+  }
+  
+  
+  @media (max-width: 768px) {
+    .logo {
+      width: 300px; 
+    }
+  
+    .subtitle {
+      font-size: 300%; 
+    }
+  }
+  
+ 
+  @media (max-width: 480px) {
+    .logo {
+      width: 200px; 
+    }
+  
+    .subtitle {
+      font-size: 150%;
+      font-weight: bold; 
+    }
+  }
+  
