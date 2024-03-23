@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import { useShoppingCart } from "../context/ShoppingCartContext";
 import { formatCurrency } from "../utilities/formatCurrency";
 import "../assets/styles/StoreItem.css";
@@ -19,9 +19,11 @@ export function StoreItem({ id, name, price, imgUrl }: StoreItemProps) {
   } = useShoppingCart();
   const quantity = getItemQuantity(id);
 
+  const [isHovered, setIsHovered] = useState(false);
+
   return (
-    <div className="store-item">
-      <img src={imgUrl} alt={name} className="store-item-image" />
+    <div className="store-item" onMouseEnter={() => setIsHovered(true)} onMouseLeave={() => setIsHovered(false)}>
+      <img src={isHovered ? imgUrl.replace('.png', '_hover.png') : imgUrl} alt={name} className="store-item-image" />
       <div className="store-item-details">
         <div className="store-item-title">
           <span className="store-item-name">{name}</span>

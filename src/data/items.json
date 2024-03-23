@@ -3,13 +3,13 @@
       "id": 1,
       "name": "Coleman Mackenzie",
       "price": 649.83,
-      "imgUrl": "/images/tent1.png"
+      "imgUrl": "./images/tent1.png"
   },
   {
       "id": 2,
       "name": "Eurotrail YELLOWSTONE",
       "price": 1260.11,
-      "imgUrl": "/images/tent2.png"
+      "imgUrl": "./images/tent2.png"
   },
   {
       "id": 3,
